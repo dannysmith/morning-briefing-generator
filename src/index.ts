@@ -45,7 +45,7 @@ async function generateBriefing(): Promise<void> {
     sunset: 'N/A'
   };
 
-  // Process other data
+  // Extract successful results, defaulting to empty arrays for failures
   const bitcoin = bitcoinData.status === 'fulfilled' ? bitcoinData.value : undefined;
   const tides = tidesData.status === 'fulfilled' ? tidesData.value : [];
   const videos = videosData.status === 'fulfilled' ? videosData.value : [];

@@ -1,5 +1,6 @@
 import type { WeatherData } from '../types/index.js';
 import { formatLondonTime } from '../utils/date.js';
+import { fetchWithTimeout } from '../utils/fetch.js';
 
 const ISLINGTON_LAT = 51.5493;
 const ISLINGTON_LNG = -0.1037;
@@ -13,24 +14,13 @@ export async function fetchWeather(): Promise<WeatherData | null> {
     `timezone=Europe/London&forecast_days=1`;
 
   try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => controller.abort(), 10000);
-
-    const response = await fetch(url, {
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'Morning-Briefing-Generator/1.0'
-      }
-    });
-
-    clearTimeout(timeoutId);
-
+    const response = await fetchWithTimeout(url);
+    
     if (!response.ok) {
       throw new Error(`Weather API returned ${response.status}`);
     }
 
-    const data = await response.json() as WeatherData;
-    return data;
+    return await response.json() as WeatherData;
   } catch (error) {
     console.error('Failed to fetch weather:', error);
     return null;
@@ -48,24 +38,13 @@ export function getUmbrellaRecommendation(hourlyRain: number[]): string {
 
 export function getRainTiming(hourlyTimes: string[], hourlyRain: number[]): string {
   const next8Hours = hourlyRain.slice(0, 8);
-  const significantRain = next8Hours
-    .map((rain, index) => ({ rain, time: hourlyTimes[index], index }))
-    .filter(item => item.rain > 30)
-    .sort((a, b) => b.rain - a.rain);
+  const maxRainIndex = next8Hours.indexOf(Math.max(...next8Hours));
+  const maxRain = next8Hours[maxRainIndex];
 
-  if (significantRain.length === 0) {
+  if (maxRain <= 30) {
     return "No significant rain expected";
   }
 
-  const topRain = significantRain[0];
-  const timeFormatted = formatLondonTime(topRain.time, 'ha');
-  
-  if (significantRain.length === 1) {
-    return `Peak rain: ${timeFormatted} (${topRain.rain}%)`;
-  }
-
-  const startTime = formatLondonTime(significantRain[significantRain.length - 1].time, 'ha');
-  const endTime = formatLondonTime(significantRain[0].time, 'ha');
-  
-  return `Rain period: ${startTime}-${endTime} (peak ${topRain.rain}% at ${timeFormatted})`;
+  const peakTime = formatLondonTime(hourlyTimes[maxRainIndex], 'ha');
+  return `Peak rain: ${peakTime} (${maxRain}%)`;
 }
