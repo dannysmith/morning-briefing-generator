@@ -21,7 +21,7 @@ jobs:
           node-version: '20'
       
       - name: Generate morning briefing
-        run: node dist/bundle/index.js
+        run: node scripts/generate-briefing.js
       
       - name: Commit and push changes
         run: |

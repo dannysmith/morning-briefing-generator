@@ -6,11 +6,11 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
-    "bundle": "ncc build dist/index.js -o dist/bundle --minify",
+    "bundle": "ncc build dist/index.js -o scripts --minify && mv scripts/index.js scripts/generate-briefing.js",
     "build-bundle": "npm run build && npm run bundle",
     "dev": "tsx src/index.ts",
     "generate": "node dist/index.js",
-    "generate-bundled": "node dist/bundle/index.js",
+    "generate-bundled": "node scripts/generate-briefing.js",
     "start": "npm run build && npm run generate"
   },
   "dependencies": {

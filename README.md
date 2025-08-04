@@ -72,13 +72,13 @@ npm run generate-bundled
 
 The repository includes a GitHub Action that:
 - Runs daily at 7 AM UTC (8 AM BST / 7 AM GMT)
-- Executes the pre-bundled script (`dist/bundle/index.js`)
+- Executes the pre-bundled script (`scripts/generate-briefing.js`)
 - Commits the new briefing files automatically
 - Can be triggered manually
 
-The bundled version includes all dependencies in a single 203kB file, making the action run very fast.
+The bundled version includes all dependencies in a single 204kB file, making the action run very fast.
 
-**Important**: After making code changes, run `npm run build-bundle` to update the bundled file that GitHub Actions uses.
+**Important**: After making code changes, run `npm run build-bundle` to update the bundled script that GitHub Actions uses.
 
 The briefing will be saved to:
 - `dailybriefs/YYYY-MM-DD.md` (e.g., `dailybriefs/2024-08-04.md`) - permanent archive
