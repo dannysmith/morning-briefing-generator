@@ -32,9 +32,9 @@ jobs:
             echo "No changes to commit"
           else
             CURRENT_DATE=$(TZ=Europe/London date +'%Y-%m-%d')
-            git commit -m "Add morning briefing for $CURRENT_DATE 🌅
+            git commit -m "Add morning briefing for $CURRENT_DATE
 
-Generated with [Morning Briefing Generator](https://github.com/${{ github.repository }})
+Generated with Morning Briefing Generator
 
 Co-Authored-By: Claude <noreply@anthropic.com>"
             git push
