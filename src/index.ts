@@ -106,6 +106,9 @@ async function generateBriefing(): Promise<void> {
   console.log(`- News: ${news.length} articles`);
   console.log(`- Videos: ${videos.length} new videos`);
   console.log(`- Articles: ${articles.length} new articles`);
+  
+  // Exit successfully
+  process.exit(0);
 }
 
 // Run the briefing generator

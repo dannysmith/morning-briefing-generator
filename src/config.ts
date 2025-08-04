@@ -12,9 +12,7 @@ export const config = {
     't3dotgg': 'UCbRP3c757lWg9M-U7TyEkXA',
     'howiaipodcast': 'UCJKt_QVDyUbqdm3ag_py2eQ',
     'AlecSteele': 'UCWizIdwZdmr43zfxlCktmNw',
-    'colinfurze': 'UCp68_FLety0O-n9QU6phsgw',
-    'FallowLondon': 'UC4AHgEZmzfPREQJBFeLNDOg',
-    'Pixlriffs': 'UC1hBl2MHLBkoXKEh21ZwECw'
+    'colinfurze': 'UCp68_FLety0O-n9QU6phsgw'
   },
 
   // RSS feeds to monitor (name: url)

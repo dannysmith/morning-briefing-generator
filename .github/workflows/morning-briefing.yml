@@ -27,11 +27,15 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dailybriefs/*.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
+          if [ -d "dailybriefs" ] && [ "$(ls -A dailybriefs/*.md 2>/dev/null)" ]; then
+            git add dailybriefs/*.md
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              CURRENT_DATE=$(TZ=Europe/London date +'%Y-%m-%d')
+              git commit -m "Add morning briefing for $CURRENT_DATE" -m "Generated with Morning Briefing Generator"
+              git push
+            fi
           else
-            CURRENT_DATE=$(TZ=Europe/London date +'%Y-%m-%d')
-            git commit -m "Add morning briefing for $CURRENT_DATE" -m "Generated with Morning Briefing Generator"
-            git push
+            echo "No briefing files found to commit"
           fi
