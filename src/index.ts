@@ -7,6 +7,11 @@ import { fetchRSSFeeds } from './fetchers/rss.js';
 import { formatBriefing } from './utils/formatter.js';
 import { formatLondonTime } from './utils/date.js';
 import type { BriefingData } from './types/index.js';
+import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { join } from 'path';
+import { format } from 'date-fns';
+import { formatInTimeZone } from 'date-fns-tz';
+import { config } from './config.js';
 
 async function generateBriefing(): Promise<void> {
   console.log('🌅 Generating morning briefing...\n');
@@ -62,13 +67,28 @@ async function generateBriefing(): Promise<void> {
     articles
   };
 
-  // Generate and output the briefing
+  // Generate the briefing
   const formattedBriefing = formatBriefing(briefing);
   
-  console.log('📋 Morning Briefing Generated:\n');
-  console.log('=' .repeat(50));
-  console.log(formattedBriefing);
-  console.log('=' .repeat(50));
+  // Create dailybriefs directory if it doesn't exist
+  const dailyBriefsDir = join(process.cwd(), 'dailybriefs');
+  if (!existsSync(dailyBriefsDir)) {
+    mkdirSync(dailyBriefsDir, { recursive: true });
+    console.log('📁 Created dailybriefs directory');
+  }
+
+  // Generate filename with date in London timezone
+  const dateString = formatInTimeZone(new Date(), config.location.timezone, 'yyyy-MM-dd');
+  const datedFilename = join(dailyBriefsDir, `${dateString}.md`);
+  const latestFilename = join(dailyBriefsDir, 'latest.md');
+  
+  // Write to both files
+  writeFileSync(datedFilename, formattedBriefing, 'utf8');
+  writeFileSync(latestFilename, formattedBriefing, 'utf8');
+  
+  console.log(`📝 Morning briefing written to:`);
+  console.log(`   - dailybriefs/${dateString}.md (archived)`);
+  console.log(`   - dailybriefs/latest.md (always current)`);
 
   // Log summary statistics
   console.log('\n📊 Summary:');

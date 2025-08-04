@@ -6,7 +6,7 @@ A TypeScript application that generates a comprehensive morning briefing with we
 
 All customizable settings are in `src/config.ts`. Simply edit this file to personalize your briefing:
 
-### =Í Location
+### =ï¿½ Location
 ```typescript
 location: {
   name: 'Islington',
@@ -16,7 +16,7 @@ location: {
 }
 ```
 
-### =ú YouTube Channels
+### =ï¿½ YouTube Channels
 Add or remove YouTube channels by editing the `youtubeChannels` object:
 ```typescript
 youtubeChannels: {
@@ -25,7 +25,7 @@ youtubeChannels: {
 }
 ```
 
-### =ð RSS Feeds
+### =ï¿½ RSS Feeds
 Add your favorite blogs and RSS feeds:
 ```typescript
 rssFeeds: {
@@ -35,7 +35,7 @@ rssFeeds: {
 }
 ```
 
-### =Þ News Sources
+### =ï¿½ News Sources
 Customize news feeds and keywords for filtering:
 ```typescript
 newsFeeds: {
@@ -64,15 +64,19 @@ npm run build
 npm run generate
 ```
 
+The briefing will be saved to:
+- `dailybriefs/YYYY-MM-DD.md` (e.g., `dailybriefs/2024-08-04.md`) - permanent archive
+- `dailybriefs/latest.md` - always contains the most recent briefing (constant URL)
+
 ## Output
 
-The briefing includes:
+The briefing markdown file includes:
 - <! Weather with umbrella recommendations
 - <
  Tide times (London Bridge)
-- =° Bitcoin price (if significant change)
-- =ð Top news articles with links
-- =ú New YouTube videos from your channels
-- =Ý Recent blog posts from RSS feeds
+- =ï¿½ Bitcoin price (if significant change)
+- =ï¿½ Top news articles with links
+- =ï¿½ New YouTube videos from your channels
+- =ï¿½ Recent blog posts from RSS feeds
 
 All items include clickable links and relative timestamps (e.g., "2 hours ago").
