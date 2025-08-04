@@ -56,13 +56,29 @@ newsKeywords: ['ukraine', 'russia', 'nato', ...] // Topics to filter
 # Install dependencies
 npm install
 
-# Run the briefing generator
+# Development (fastest for testing)
 npm run dev
 
-# Or build and run
+# Build and run normally
 npm run build
 npm run generate
+
+# Build bundled version for GitHub Actions
+npm run build-bundle
+npm run generate-bundled
 ```
+
+## GitHub Actions
+
+The repository includes a GitHub Action that:
+- Runs daily at 7 AM UTC (8 AM BST / 7 AM GMT)
+- Executes the pre-bundled script (`dist/bundle/index.js`)
+- Commits the new briefing files automatically
+- Can be triggered manually
+
+The bundled version includes all dependencies in a single 203kB file, making the action run very fast.
+
+**Important**: After making code changes, run `npm run build-bundle` to update the bundled file that GitHub Actions uses.
 
 The briefing will be saved to:
 - `dailybriefs/YYYY-MM-DD.md` (e.g., `dailybriefs/2024-08-04.md`) - permanent archive
