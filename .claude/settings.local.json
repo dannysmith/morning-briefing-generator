@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs",
+      "WebFetch(domain:open-meteo.com)",
+      "WebFetch(domain:api.sunrise-sunset.org)",
+      "WebFetch(domain:api.sunrisesunset.io)",
+      "WebFetch(domain:api.open-meteo.com)",
+      "WebFetch(domain:www.tidetimes.org.uk)",
+      "WebFetch(domain:environment.data.gov.uk)",
+      "WebFetch(domain:simonwillison.net)",
+      "WebFetch(domain:newsapi.org)",
+      "WebFetch(domain:feeds.bbci.co.uk)",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:www.metoffice.gov.uk)"
+    ],
+    "deny": []
+  }
+}
