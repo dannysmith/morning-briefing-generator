@@ -8,12 +8,16 @@ on:
 jobs:
   generate-briefing:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       TZ: Europe/London
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -23,19 +27,16 @@ jobs:
       - name: Generate morning briefing
         run: node scripts/generate-briefing.js
       
-      - name: Commit and push changes
+      - name: Commit and push morning briefing
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          if [ -d "dailybriefs" ] && [ "$(ls -A dailybriefs/*.md 2>/dev/null)" ]; then
-            git add dailybriefs/*.md
-            if git diff --staged --quiet; then
-              echo "No changes to commit"
-            else
-              CURRENT_DATE=$(TZ=Europe/London date +'%Y-%m-%d')
-              git commit -m "Add morning briefing for $CURRENT_DATE" -m "Generated with Morning Briefing Generator"
-              git push
-            fi
+          git config --local user.name "Morning Briefing Bot"
+          git add dailybriefs/*.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
           else
-            echo "No briefing files found to commit"
+            CURRENT_DATE=$(TZ=Europe/London date +'%Y-%m-%d')
+            git commit -m "Add morning briefing for $CURRENT_DATE"
+            git push
+            echo "Morning briefing committed and pushed successfully"
           fi
