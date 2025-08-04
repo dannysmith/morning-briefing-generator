@@ -13,7 +13,10 @@
       "WebFetch(domain:newsapi.org)",
       "WebFetch(domain:feeds.bbci.co.uk)",
       "WebFetch(domain:www.youtube.com)",
-      "WebFetch(domain:www.metoffice.gov.uk)"
+      "WebFetch(domain:www.metoffice.gov.uk)",
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }
