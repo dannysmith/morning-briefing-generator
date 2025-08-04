@@ -9,7 +9,7 @@ jobs:
   generate-briefing:
     runs-on: ubuntu-latest
     env:
-      TZ: Europe/London  # Critical for correct timezone handling
+      TZ: Europe/London
     
     steps:
       - name: Checkout repository
@@ -32,10 +32,6 @@ jobs:
             echo "No changes to commit"
           else
             CURRENT_DATE=$(TZ=Europe/London date +'%Y-%m-%d')
-            git commit -m "Add morning briefing for $CURRENT_DATE
-
-Generated with Morning Briefing Generator
-
-Co-Authored-By: Claude <noreply@anthropic.com>"
+            git commit -m "Add morning briefing for $CURRENT_DATE" -m "Generated with Morning Briefing Generator"
             git push
           fi
