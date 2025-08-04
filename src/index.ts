@@ -81,14 +81,22 @@ async function generateBriefing(): Promise<void> {
   const dateString = formatInTimeZone(new Date(), config.location.timezone, 'yyyy-MM-dd');
   const datedFilename = join(dailyBriefsDir, `${dateString}.md`);
   const latestFilename = join(dailyBriefsDir, 'latest.md');
-  
-  // Write to both files
-  writeFileSync(datedFilename, formattedBriefing, 'utf8');
-  writeFileSync(latestFilename, formattedBriefing, 'utf8');
-  
-  console.log(`📝 Morning briefing written to:`);
-  console.log(`   - dailybriefs/${dateString}.md (archived)`);
-  console.log(`   - dailybriefs/latest.md (always current)`);
+
+  // Check if today's briefing already exists (duplicate run protection)
+  if (existsSync(datedFilename)) {
+    console.log(`⚠️  Today's briefing already exists: ${dateString}.md`);
+    console.log('   Updating latest.md only...');
+    writeFileSync(latestFilename, formattedBriefing, 'utf8');
+    console.log(`📝 Updated: dailybriefs/latest.md`);
+  } else {
+    // Write to both files
+    writeFileSync(datedFilename, formattedBriefing, 'utf8');
+    writeFileSync(latestFilename, formattedBriefing, 'utf8');
+    
+    console.log(`📝 Morning briefing written to:`);
+    console.log(`   - dailybriefs/${dateString}.md (archived)`);
+    console.log(`   - dailybriefs/latest.md (always current)`);
+  }
 
   // Log summary statistics
   console.log('\n📊 Summary:');

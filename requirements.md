@@ -75,8 +75,7 @@ Present the briefing in this order:
 
 🌡️ Current: [temp]°C | High today: [max_temp]°C
 🌧️ Rain: [umbrella_recommendation]
-   Next 8 hours: [hourly probabilities if >30%]
-   Peak rain time: [time range if applicable]
+   [Peak rain timing if applicable]
 🌅 Sunrise: [time] | 🌇 Sunset: [time]
 🌊 Tides: High [time] ([height]m), Low [time] ([height]m)
 
@@ -87,19 +86,19 @@ Bitcoin: $[price] ([change]% 24h)
 
 ## News Highlights
 
-[BBC article 1 title - category]
-[BBC article 2 title - category]
+- [Article Title](link) - Category (time ago)
+- [Article Title](link) - Category (time ago)
 [Up to 5 relevant articles]
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-[Channel]: [Video title]
+- **Channel**: [Video Title](link) (time ago)
 [List all new videos]
 
 ### 📝 Articles:
 
-[Source]: [Article title]
+- **Source**: [Article Title](link) (time ago)
 [List all new posts]
 ```
 

@@ -3,7 +3,8 @@ node_modules/
 .env
 .env.local
 .DS_Store
-briefing.md
 
-# Keep dist/ for bundled GitHub Action
-# dist/
+# Ignore build files but keep the bundled script for GitHub Actions
+dist/
+!dist/bundle/
+!dist/bundle/index.js
