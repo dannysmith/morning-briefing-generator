@@ -1,5 +1,5 @@
 import type { BriefingData, TideData, VideoItem, NewsItem } from '../types/index.js';
-import { getCurrentDateString } from './date.js';
+import { getCurrentDateString, getRelativeTime } from './date.js';
 
 export function formatBriefing(data: BriefingData): string {
   const sections: string[] = [];
@@ -39,7 +39,8 @@ export function formatBriefing(data: BriefingData): string {
     sections.push('## News Highlights');
     sections.push('');
     data.news.forEach(item => {
-      sections.push(`${item.title} - ${item.category}`);
+      const time = getRelativeTime(item.pubDate);
+      sections.push(`- [${item.title}](${item.link}) - ${item.category} (${time})`);
     });
     sections.push('');
   }
@@ -54,7 +55,8 @@ export function formatBriefing(data: BriefingData): string {
       sections.push('### 📺 YouTube:');
       sections.push('');
       data.videos.forEach(video => {
-        sections.push(`${video.channel}: ${video.title}`);
+        const time = getRelativeTime(video.published);
+        sections.push(`- **${video.channel}**: [${video.title}](${video.link}) (${time})`);
       });
       sections.push('');
     }
@@ -64,7 +66,8 @@ export function formatBriefing(data: BriefingData): string {
       sections.push('### 📝 Articles:');
       sections.push('');
       data.articles.forEach(article => {
-        sections.push(`${article.category}: ${article.title}`);
+        const time = getRelativeTime(article.pubDate);
+        sections.push(`- **${article.category}**: [${article.title}](${article.link}) (${time})`);
       });
       sections.push('');
     }
