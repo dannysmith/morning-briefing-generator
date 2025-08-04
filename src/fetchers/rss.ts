@@ -1,10 +1,7 @@
 import { fetchMultipleFeeds } from '../utils/rss.js';
 import { isWithin48Hours } from '../utils/date.js';
-
-const RSS_FEEDS = {
-  'Simon Willison': 'https://simonwillison.net/atom/everything/'
-};
+import { config } from '../config.js';
 
 export async function fetchRSSFeeds() {
-  return fetchMultipleFeeds(RSS_FEEDS, (item) => isWithin48Hours(item.pubDate));
+  return fetchMultipleFeeds(config.rssFeeds, (item) => isWithin48Hours(item.pubDate));
 }

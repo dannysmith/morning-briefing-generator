@@ -1,5 +1,6 @@
 import type { BriefingData, TideData, VideoItem, NewsItem } from '../types/index.js';
 import { getCurrentDateString, getRelativeTime } from './date.js';
+import { config } from '../config.js';
 
 export function formatBriefing(data: BriefingData): string {
   const sections: string[] = [];
@@ -9,7 +10,7 @@ export function formatBriefing(data: BriefingData): string {
   sections.push('');
 
   // Weather & Conditions
-  sections.push('## Weather & Conditions (Islington)');
+  sections.push(`## Weather & Conditions (${config.location.name})`);
   sections.push('');
   sections.push(`🌡️ Current: ${data.weather.current}°C | High today: ${data.weather.high}°C`);
   sections.push(`🌧️ Rain: ${data.weather.umbrellaRecommendation}`);

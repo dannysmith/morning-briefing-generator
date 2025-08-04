@@ -1,5 +1,6 @@
 import Parser from 'rss-parser';
 import type { TideData } from '../types/index.js';
+import { config } from '../config.js';
 
 const parser = new Parser({
   timeout: 10000,
@@ -9,7 +10,7 @@ const parser = new Parser({
 });
 
 export async function fetchTides(): Promise<TideData[]> {
-  const url = 'https://www.tidetimes.org.uk/london-bridge-tower-pier-tide-times.rss';
+  const url = config.tideFeed;
 
   try {
     const feed = await parser.parseURL(url);

@@ -1,6 +1,7 @@
 import Parser from 'rss-parser';
 import type { VideoItem } from '../types/index.js';
 import { isWithin48Hours } from '../utils/date.js';
+import { config } from '../config.js';
 
 const parser = new Parser({
   timeout: 10000,
@@ -8,15 +9,6 @@ const parser = new Parser({
     'User-Agent': 'Morning-Briefing-Generator/1.0'
   }
 });
-
-const YOUTUBE_CHANNELS = {
-  't3dotgg': 'UCbRP3c757lWg9M-U7TyEkXA',
-  'howiaipodcast': 'UCJKt_QVDyUbqdm3ag_py2eQ',
-  'AlecSteele': 'UCWizIdwZdmr43zfxlCktmNw',
-  'colinfurze': 'UCp68_FLety0O-n9QU6phsgw',
-  'FallowLondon': 'UC4AHgEZmzfPREQJBFeLNDOg',
-  'Pixlriffs': 'UC1hBl2MHLBkoXKEh21ZwECw'
-};
 
 async function fetchChannelVideos(channelName: string, channelId: string): Promise<VideoItem[]> {
   const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${channelId}`;
@@ -47,7 +39,7 @@ async function fetchChannelVideos(channelName: string, channelId: string): Promi
 }
 
 export async function fetchYouTubeVideos(): Promise<VideoItem[]> {
-  const promises = Object.entries(YOUTUBE_CHANNELS).map(([name, id]) =>
+  const promises = Object.entries(config.youtubeChannels).map(([name, id]) =>
     fetchChannelVideos(name, id)
   );
 
