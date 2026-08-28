@@ -22,7 +22,7 @@
     "@types/node": "^20.14.0",
     "@vercel/ncc": "^0.38.1",
     "typescript": "^5.4.0",
-    "tsx": "^4.16.0"
+    "tsx": "^4.22.4"
   },
   "keywords": ["weather", "news", "briefing", "rss", "automation"],
   "author": "Danny",
