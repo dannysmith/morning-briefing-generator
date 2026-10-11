@@ -1,36 +1,33 @@
-🌅 Morning Briefing - Saturday, 10th October 2026
+🌅 Morning Briefing - Sunday, 11th October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 14°C | High today: 15°C
+🌡️ Current: 15°C | High today: 15°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:15 | 🌇 Sunset: 18:18
-🌊 Tides: High 02:15 (7.05mm), Low 08:51 (0.82mm)
+🌅 Sunrise: 07:17 | 🌇 Sunset: 18:15
+🌊 Tides: High 02:53 (7.05mm), Low 09:34 (0.78mm)
 
 ## News Highlights
 
-- [Russian glide bomb attack on Zaporizhzhia kills at least 15 people](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [Profile](https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
-- [Nord Stream trial: How German police followed the evidence - to Ukraine](https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss) - BBC World (8 hours ago)
-- [Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss) - BBC World (8 hours ago)
-- [Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says](https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss) - BBC World (8 hours ago)
-- [Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss) - BBC World (14 hours ago)
-- [JD Vance casts doubt on firing squad execution and says he would not watch it](https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss) - BBC World (15 hours ago)
-- [Powerful magnitude 7.7 earthquake hits Panama, damaging buildings](https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss) - BBC World (15 hours ago)
+- [Ukraine strikes Russian data centre again despite Trump warning](https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [Riyadh airport attack another dangerous moment in already tense conflict](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
+- [UK does not support Trump's Russia diesel deal, says Streeting](https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [It's within DUP's gift to remove O'Neill as first minister, says Lockhart](https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [Could Alberta's vote on independence be Canada's Brexit moment? ](https://www.bbc.co.uk/news/videos/cm2d63e90zepo?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [UK launches flood taskforce to prepare for extreme winter weather](https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss) - BBC Politics (12 hours ago)
+- [MPs seek to overturn ruling that stops police being sued for failings](https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss) - BBC Politics (14 hours ago)
+- [Young men live in fear of being snatched off the streets and sold to Myanmar's army](https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss) - BBC World (15 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [You can rewrite typescript in rust for $420k](https://www.youtube.com/watch?v=ND_kRgU_WlY) (2 hours ago)
-- **AlecSteele**: [My Dream Power Hammer Restoration! Part 11](https://www.youtube.com/watch?v=CePYyjvjcd4) (18 hours ago)
-- **t3dotgg**: [finally a good small model](https://www.youtube.com/watch?v=38_6C0dkKmU) (yesterday)
+- **t3dotgg**: [You can rewrite typescript in rust for $420k](https://www.youtube.com/watch?v=ND_kRgU_WlY) (yesterday)
+- **AlecSteele**: [My Dream Power Hammer Restoration! Part 11](https://www.youtube.com/watch?v=CePYyjvjcd4) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) (11 hours ago)
-- **Simon Willison**: [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/) (14 hours ago)
-- **Simon Willison**: [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) (22 hours ago)
-- **Simon Willison**: [A new feature for my blog, built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/) (yesterday)
-- **Simon Willison**: [ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/) (yesterday)
-- **Simon Willison**: [ttok 0.4](https://simonwillison.net/2026/Oct/8/ttok/) (yesterday)
-- **Simon Willison**: [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/) (yesterday)
+- **Simon Willison**: [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) (12 hours ago)
+- **Simon Willison**: [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/) (13 hours ago)
+- **Simon Willison**: [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) (yesterday)
+- **Simon Willison**: [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/) (yesterday)
+- **Simon Willison**: [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) (yesterday)
