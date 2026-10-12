@@ -1,33 +1,30 @@
-🌅 Morning Briefing - Sunday, 11th October 2026
+🌅 Morning Briefing - Monday, 12th October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 15°C | High today: 15°C
+🌡️ Current: 16°C | High today: 17°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:17 | 🌇 Sunset: 18:15
-🌊 Tides: High 02:53 (7.05mm), Low 09:34 (0.78mm)
+🌅 Sunrise: 07:19 | 🌇 Sunset: 18:13
+🌊 Tides: High 03:28 (7.03mm), Low 10:12 (0.77mm)
 
 ## News Highlights
 
-- [Ukraine strikes Russian data centre again despite Trump warning](https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [Riyadh airport attack another dangerous moment in already tense conflict](https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- [UK does not support Trump's Russia diesel deal, says Streeting](https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [It's within DUP's gift to remove O'Neill as first minister, says Lockhart](https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [Could Alberta's vote on independence be Canada's Brexit moment? ](https://www.bbc.co.uk/news/videos/cm2d63e90zepo?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [UK launches flood taskforce to prepare for extreme winter weather](https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss) - BBC Politics (12 hours ago)
-- [MPs seek to overturn ruling that stops police being sued for failings](https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss) - BBC Politics (14 hours ago)
-- [Young men live in fear of being snatched off the streets and sold to Myanmar's army](https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss) - BBC World (15 hours ago)
+- [Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador](https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Watch: What could Trump's energy ceasefire mean for Ukraine?](https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [PM believes Brexit vote was legitimate despite Russia interference claims, No 10 says](https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [Reform pledges to suspend UK's asylum system for up to five years](https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [US detains man accused in multi-billion Venezuelan money laundering scheme ](https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
+- [Sinn Féin ministers facing no-confidence vote after Drumcree dispute](https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Healey faces £35bn Budget challenge to meet spending pledges, says think tank](https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
+- [Burnham says it is 'clear' Russia interfered with Brexit vote](https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [You can rewrite typescript in rust for $420k](https://www.youtube.com/watch?v=ND_kRgU_WlY) (yesterday)
-- **AlecSteele**: [My Dream Power Hammer Restoration! Part 11](https://www.youtube.com/watch?v=CePYyjvjcd4) (yesterday)
+- **t3dotgg**: [I thought AI was gonna get cheaper?](https://www.youtube.com/watch?v=vRS2leJLAI0) (13 hours ago)
+- **AlecSteele**: [My Dream Power Hammer Restoration! Part 12](https://www.youtube.com/watch?v=-4z1roxVUek) (20 hours ago)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) (12 hours ago)
-- **Simon Willison**: [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/) (13 hours ago)
-- **Simon Willison**: [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) (yesterday)
-- **Simon Willison**: [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/) (yesterday)
-- **Simon Willison**: [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/) (yesterday)
+- **Simon Willison**: [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) (yesterday)
+- **Simon Willison**: [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/) (yesterday)
