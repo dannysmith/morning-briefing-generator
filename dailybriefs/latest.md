@@ -1,34 +1,36 @@
-🌅 Morning Briefing - Tuesday, 13th October 2026
+🌅 Morning Briefing - Wednesday, 14th October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 20°C | High today: 20°C
+🌡️ Current: 17°C | High today: 18°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:20 | 🌇 Sunset: 18:11
-🌊 Tides: High 03:59 (7mm), Low 10:44 (0.8mm)
+🌅 Sunrise: 07:22 | 🌇 Sunset: 18:09
+🌊 Tides: High 04:29 (6.9mm), Low 11:09 (0.88mm)
 
 ## News Highlights
 
-- [The Brexit debate is back - why now?](https://www.bbc.co.uk/news/videos/cvy0rxy3jexwo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack](https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [Is Zelensky right to say data centre strikes have taken down Russian bots?](https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [Hungarian MPs scrap Orbán's anti-LGBTQ measures](https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [Welsh government and Labour strike budget deal with £60m for additional learning needs](https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [UK growth forecast upgraded but higher energy prices to hit economy next year](https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss) - BBC Politics (5 hours ago)
-- [Why are hundreds of prisoners being released early?](https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss) - BBC Politics (6 hours ago)
-- [Chronic UTIs made MP 'feel like a drug user'](https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss) - BBC Politics (9 hours ago)
+- [Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [Burnham had two hospitality dinners with Man City chairman, deleted records show](https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Starlink restrictions affecting Ukraine's front line operations, Kyiv says](https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [Watch: Block of flats destroyed in Russian strikes on Ukraine](https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss) - BBC World (3 hours ago)
+- [Russia arrests Japanese journalist on spying charges](https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss) - BBC World (4 hours ago)
+- [Why 'cool kids' won't let Swindon in Thames Valley](https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
+- [Chris Mason: Lib Dems rally behind Davey as he pledges change](https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
+- [Zimbabwean author denies using AI to write award-winning story](https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss) - BBC World (13 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Meta just caught up with Anthropic](https://www.youtube.com/watch?v=DbWL6Zs2j_g) (3 hours ago)
-- **t3dotgg**: [P.S. Don't Upgrade For Ultrafast (Yet)](https://www.youtube.com/shorts/XkmZ1nOtuDc) (20 hours ago)
-- **t3dotgg**: [I thought AI was gonna get cheaper?](https://www.youtube.com/watch?v=vRS2leJLAI0) (yesterday)
-- **AlecSteele**: [My Dream Power Hammer Restoration! Part 12](https://www.youtube.com/watch?v=-4z1roxVUek) (yesterday)
+- **t3dotgg**: [Meta just caught up with Anthropic](https://www.youtube.com/watch?v=DbWL6Zs2j_g) (yesterday)
+- **t3dotgg**: [P.S. Don't Upgrade For Ultrafast (Yet)](https://www.youtube.com/shorts/XkmZ1nOtuDc) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/) (1 hour ago)
-- **Simon Willison**: [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) (20 hours ago)
-- **Simon Willison**: [web-edit 0.1a0](https://simonwillison.net/2026/Oct/12/web-edit/) (22 hours ago)
-- **Simon Willison**: [datasette-ports 0.4](https://simonwillison.net/2026/Oct/12/datasette-ports/) (yesterday)
+- **Simon Willison**: [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) (13 hours ago)
+- **Simon Willison**: [llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/) (14 hours ago)
+- **Simon Willison**: [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/) (23 hours ago)
+- **Simon Willison**: [web-edit 0.1a1](https://simonwillison.net/2026/Oct/13/web-edit/) (yesterday)
+- **Simon Willison**: [llm-meta-ai 0.2](https://simonwillison.net/2026/Oct/12/llm-meta-ai/) (yesterday)
+- **Simon Willison**: [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) (yesterday)
+- **Simon Willison**: [Profiling web-edit with Python 3.15: flame graphs and source heatmaps](https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/) (yesterday)
+- **Simon Willison**: [web-edit 0.1a0](https://simonwillison.net/2026/Oct/12/web-edit/) (yesterday)
