@@ -1,36 +1,33 @@
-🌅 Morning Briefing - Thursday, 15th October 2026
+🌅 Morning Briefing - Friday, 16th October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 19°C | High today: 20°C
-🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:24 | 🌇 Sunset: 18:07
-🌊 Tides: High 04:59 (6.69mm), Low 11:29 (0.98mm)
-
-## Markets
-
-Bitcoin: $80,851 (-3.4% 24h)
+🌡️ Current: 13°C | High today: 17°C
+🌧️ Rain: 🌂 Take umbrella - rain likely
+   Peak rain: 7AM (86%)
+🌅 Sunrise: 07:26 | 🌇 Sunset: 18:05
+🌊 Tides: High 05:28 (6.43mm), Low 11:53 (1.11mm)
 
 ## News Highlights
 
-- [Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [Why is Starlink internet so important on the battlefield in Ukraine?](https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [Obama says drift towards extremism 'not inevitable'](https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [Reform faces criticism after councillors filmed making racist comments](https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
-- [Healey says surprise UK growth is 'sign of resilience' ahead of Budget](https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [UK threatens to ban Eritreans over migrant return policy](https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [North Korea and China open new bridge after 12-year delay](https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss) - BBC World (5 hours ago)
-- [Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds](https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss) - BBC World (7 hours ago)
+- [Minister warns people to save water amid drought](https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Reform faces questions over candidate vetting after undercover filming](https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Equality watchdog writes to Greens over 'Zionism is racism' motion](https://www.bbc.co.uk/news/articles/cmly0np1gldvo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Burnham asks for 'manual trawl' of records for former Man City links](https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- ['Massive challenge' to protect Donaldson from harm in jail](https://www.bbc.co.uk/news/articles/cwm243x4my4zo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [Banks expect to be hit with higher taxes in Budget](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [Burnham to urge Swinney to work with him on devolution during Scottish visit](https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [So I've been testing Gemini 4...](https://www.youtube.com/watch?v=NE006pkiAnk) (20 hours ago)
+- **t3dotgg**: [Anthropic Rebuilt Git (yes really)](https://www.youtube.com/watch?v=hiI0Vk4NgeY) (7 hours ago)
+- **t3dotgg**: [So I've been testing Gemini 4...](https://www.youtube.com/watch?v=NE006pkiAnk) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) (14 hours ago)
-- **Simon Willison**: [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/) (19 hours ago)
-- **Simon Willison**: [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) (yesterday)
-- **Simon Willison**: [llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/) (yesterday)
-- **Simon Willison**: [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/) (yesterday)
+- **Simon Willison**: [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) (16 hours ago)
+- **Simon Willison**: [Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/) (22 hours ago)
+- **Simon Willison**: [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) (yesterday)
+- **Simon Willison**: [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/) (yesterday)
