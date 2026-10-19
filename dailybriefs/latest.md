@@ -1,26 +1,31 @@
-🌅 Morning Briefing - Sunday, 18th October 2026
+🌅 Morning Briefing - Monday, 19th October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 13°C | High today: 14°C
-🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:29 | 🌇 Sunset: 18:00
-🌊 Tides: High 06:28 (5.89mm), Low 00:21 (1.47mm)
+🌡️ Current: 13°C | High today: 13°C
+🌧️ Rain: 🌂 Take umbrella - rain likely
+   Peak rain: 4AM (98%)
+🌅 Sunrise: 07:31 | 🌇 Sunset: 17:58
+🌊 Tides: High 07:13 (5.58mm), Low 00:54 (1.78mm)
 
 ## News Highlights
 
-- [Polanski says he will not overturn Green Party's 'Zionism is racism' motion](https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Ending corridor care in hospitals for children will be a priority, says health secretary](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [Several dead or injured in major fire at Canada military base](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- [Trump waives several Russia sanctions as row with Zelensky intensifies](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss) - BBC World (10 hours ago)
-- [European diplomats attacked by Israeli settlers in West Bank](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss) - BBC World (11 hours ago)
-- [Police assess Palestine Action post by national security adviser's wife](https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
-- [Reform councillor quits over offensive remarks](https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
-- [Reform councillor calls TV report 'vote interference'](https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
+- [Reform MSP quits party to sit as independent](https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Bereaved families could face 'unjust' tax bill after civil service pension delays](https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [PM says youth unemployment is a 'catastrophe and a moral failure'](https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [People playing loud music on buses could face £100 fine](https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
+- [Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'](https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss) - BBC World (4 hours ago)
+- [Watch: Police 'lost control' in French cities, interior minister says](https://www.bbc.co.uk/news/videos/c317knk59d54o?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
+- [Plan to deal with Troubles legacy to be debated in House of Commons](https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss) - BBC Politics (6 hours ago)
+- [Australian Greens senator denies claims of misconduct towards women ](https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss) - BBC World (9 hours ago)
 
 ## New Content (48h)
+### 📺 YouTube:
+
+- **t3dotgg**: [Your prompts kinda suck](https://www.youtube.com/watch?v=m-B3jIMMmUE) (14 hours ago)
+
 ### 📝 Articles:
 
-- **Simon Willison**: [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/) (14 hours ago)
-- **Simon Willison**: [web-edit 0.1a2](https://simonwillison.net/2026/Oct/17/web-edit/) (22 hours ago)
-- **Simon Willison**: [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/) (yesterday)
+- **Simon Willison**: [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) (14 hours ago)
+- **Simon Willison**: [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/) (14 hours ago)
+- **Simon Willison**: [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/) (yesterday)
