@@ -1,33 +1,33 @@
-🌅 Morning Briefing - Thursday, 22nd October 2026
+🌅 Morning Briefing - Friday, 23rd October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 13°C | High today: 14°C
+🌡️ Current: 12°C | High today: 13°C
 🌧️ Rain: 🌂 Take umbrella - rain likely
-   Peak rain: 4AM (100%)
-🌅 Sunrise: 07:36 | 🌇 Sunset: 17:52
-🌊 Tides: High 11:26 (5.65mm), Low 05:13 (2.01mm)
+   Peak rain: 12AM (100%)
+🌅 Sunrise: 07:38 | 🌇 Sunset: 17:50
+🌊 Tides: High 12:23 (6.13mm), Low 06:17 (1.64mm)
 
 ## News Highlights
 
-- [El Salvador's president threatens Haitian gangs over military hostages](https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- ['500 new vulnerabilities' found in government, says AI minister](https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show ](https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [Who is Chancellor John Healey? Labour veteran who quit as defence secretary](https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [Tougher punishments for criminals who refuse to attend sentencing backed by victim's family](https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [UK's gaps in Arctic defence leave it open to Russian attacks, committee warns](https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss) - BBC Politics (10 hours ago)
-- [The 'trillion pound' oil fund the government believes Britain could have built](https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss) - BBC Politics (13 hours ago)
-- [Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings](https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss) - BBC Politics (14 hours ago)
+- [Wales plans to ban steel pylons as government launches consultation](https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Burnham suggests stocking up on tinned food and bottled water](https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Earnings limit of up to £140K for first-time buyers loan scheme](https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters](https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [Ukraine says Starlink still restricted after Trump says limits lifted](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [What is the Budget and what could be in it?](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
+- [Don't leave AI to tech bros and oligarchs, UK's AI minister says](https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Opus 5.5 is proof that we do need smarter models](https://www.youtube.com/watch?v=3OshsLm3_OQ) (yesterday)
-- **AlecSteele**: [My Dream Power Hammer Restoration! Part 13](https://www.youtube.com/watch?v=2PRUlMmldH4) (yesterday)
+- **t3dotgg**: [Even The NSA Got Involved](https://www.youtube.com/watch?v=USeyDcWyVCc) (17 hours ago)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Today's PHP Security Release, and How We're Strengthening PHP Security](https://simonwillison.net/2026/Oct/21/php-security-release/) (17 hours ago)
-- **Simon Willison**: [Panache — RTS Belle Époque pour mobile](https://simonwillison.net/2026/Oct/21/panache/) (20 hours ago)
-- **Simon Willison**: [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/) (yesterday)
-- **Simon Willison**: [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) (yesterday)
+- **Simon Willison**: [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) (16 hours ago)
+- **Simon Willison**: [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) (18 hours ago)
+- **Simon Willison**: [Quoting Armin Ronacher](https://simonwillison.net/2026/Oct/22/armin-ronacher/) (20 hours ago)
+- **Simon Willison**: [Today's PHP Security Release, and How We're Strengthening PHP Security](https://simonwillison.net/2026/Oct/21/php-security-release/) (yesterday)
+- **Simon Willison**: [Panache — RTS Belle Époque pour mobile](https://simonwillison.net/2026/Oct/21/panache/) (yesterday)
