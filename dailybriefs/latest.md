@@ -1,33 +1,31 @@
-🌅 Morning Briefing - Saturday, 24th October 2026
+🌅 Morning Briefing - Sunday, 25th October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 10°C | High today: 16°C
-🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:39 | 🌇 Sunset: 17:48
-🌊 Tides: High 00:49 (6.44mm), Low 07:13 (1.37mm)
+🌡️ Current: 13°C | High today: 13°C
+🌧️ Rain: 🌂 Take umbrella - rain likely
+   Peak rain: 12AM (100%)
+🌅 Sunrise: 06:41 | 🌇 Sunset: 16:46
+🌊 Tides: High 01:33 (6.71mm), Low 07:09 (1.2mm)
 
 ## News Highlights
 
-- [Ukraine says Starlink connection 'now stable' after network limits](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [Between quick wins and big dreams lies Burnham's biggest test](https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Wales plans to ban steel pylons as government launches consultation](https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
-- [White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'](https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss) - BBC World (4 hours ago)
-- [Tory activist in 'contract killing broker' claim had worked for party HQ](https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
-- [How does the UK state pension compare with other countries?](https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss) - BBC Politics (11 hours ago)
-- [UK to invest £100m in 'world first' AI Biosecurity Lab](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss) - BBC Politics (11 hours ago)
-- [Who actually controls Ukraine's access to Starlink?](https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss) - BBC World (13 hours ago)
+- [Burnham open to 'honest discussion' on EU free movement](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Budget to include £1bn for social and affordable housing](https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [Musk says SpaceX restricted Ukraine's Starlink connection as service restored](https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss) - BBC World (3 hours ago)
+- [Rosebank: Life on the oil field at the centre of a political storm](https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
+- [Four ways Labour could raise money in the Budget without hiking income tax](https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss) - BBC Politics (6 hours ago)
+- [Why is Ukraine so reliant on Starlink and can Europe plug the gap?](https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss) - BBC World (6 hours ago)
+- [Israel to close West Bank crossings on election day as crackdown escalates](https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss) - BBC World (6 hours ago)
+- [Gunmen kill at least 10 villagers and loot shops in north-east Nigeria](https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss) - BBC World (8 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Even The NSA Got Involved](https://www.youtube.com/shorts/nXpoU99pTho) (14 hours ago)
-- **t3dotgg**: [Even The NSA Got Involved](https://www.youtube.com/watch?v=USeyDcWyVCc) (yesterday)
+- **t3dotgg**: [Even The NSA Got Involved](https://www.youtube.com/shorts/nXpoU99pTho) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) (14 hours ago)
-- **Simon Willison**: [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) (16 hours ago)
-- **Simon Willison**: [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) (yesterday)
-- **Simon Willison**: [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) (yesterday)
-- **Simon Willison**: [Quoting Armin Ronacher](https://simonwillison.net/2026/Oct/22/armin-ronacher/) (yesterday)
+- **Simon Willison**: [battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones/) (yesterday)
+- **Simon Willison**: [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) (yesterday)
+- **Simon Willison**: [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) (yesterday)
