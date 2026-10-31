@@ -1,39 +1,33 @@
-🌅 Morning Briefing - Friday, 30th October 2026
+🌅 Morning Briefing - Saturday, 31st October 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 15°C | High today: 15°C
+🌡️ Current: 14°C | High today: 14°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 06:50 | 🌇 Sunset: 16:37
-🌊 Tides: High 04:01 (6.61mm), Low 10:48 (0.76mm)
-
-## Markets
-
-Bitcoin: $77,120 (-3.5% 24h)
+🌅 Sunrise: 06:52 | 🌇 Sunset: 16:35
+🌊 Tides: High 04:44 (6.34mm), Low 11:24 (0.84mm)
 
 ## News Highlights
 
-- [Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [Mayors will be free to use share of tax to give residents grants](https://www.bbc.co.uk/news/articles/cm8xzw8zgdedo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
-- [Streeting denies 'kicking can down the road' in defence spending row](https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [MP apologises over bullying and harassment](https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo?at_medium=RSS&at_campaign=rss) - BBC Politics (19 hours ago)
-- [DUP blocks Michelle O'Neill's engagements over Drumcree ](https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss) - BBC Politics (19 hours ago)
-- [What are the government's options for reducing welfare spending?](https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss) - BBC Politics (19 hours ago)
-- [Lib Dems and Reform UK in war of words over alleged shove](https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss) - BBC Politics (19 hours ago)
-- [Further delays for major council overhaul in nine of 14 proposed areas](https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss) - BBC Politics (21 hours ago)
+- [US approves sale of 500 Patriot missiles to Ukraine](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [Burnham 'open' to calls for slavery apology but not reparations](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Mahmood expected to announce changes to rules around indefinite leave to remain](https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
+- [Why MPs keep talking about an early election despite Burnham's denials](https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss) - BBC Politics (13 hours ago)
+- [How has the ceasefire in Russian-occupied Oleshky been unfolding?](https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss) - BBC World (13 hours ago)
+- [G20 'family photo' cancelled after protests over presence of Russian minister](https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss) - BBC Politics (14 hours ago)
+- [G20 'family photo' cancelled after protests over presence of Russian minister](https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss) - BBC World (14 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [T3 Code broke me](https://www.youtube.com/watch?v=uLGxb4F3SyI) (20 hours ago)
-- **colinfurze**: [Digging a Secret Garage Part 8 The Last 6 Months!!](https://www.youtube.com/watch?v=sxur0bhmkFM) (21 hours ago)
-- **t3dotgg**: [How To Give Claude Unlimited Usage](https://www.youtube.com/watch?v=NBCM_ZoWZo8) (yesterday)
+- **t3dotgg**: [My last video about ai harnesses](https://www.youtube.com/watch?v=ebILGCoN4UU) (15 hours ago)
+- **t3dotgg**: [T3 Code broke me](https://www.youtube.com/watch?v=uLGxb4F3SyI) (yesterday)
+- **colinfurze**: [Digging a Secret Garage Part 8 The Last 6 Months!!](https://www.youtube.com/watch?v=sxur0bhmkFM) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) (14 hours ago)
-- **Simon Willison**: [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) (20 hours ago)
-- **Simon Willison**: [Quoting Ben Hylak](https://simonwillison.net/2026/Oct/29/ben-hylak/) (23 hours ago)
-- **Simon Willison**: [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/) (yesterday)
-- **Simon Willison**: [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) (yesterday)
-- **Simon Willison**: [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/) (yesterday)
+- **Simon Willison**: [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) (15 hours ago)
+- **Simon Willison**: [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) (yesterday)
+- **Simon Willison**: [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) (yesterday)
+- **Simon Willison**: [Quoting Ben Hylak](https://simonwillison.net/2026/Oct/29/ben-hylak/) (yesterday)
