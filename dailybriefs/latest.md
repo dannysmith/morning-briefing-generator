@@ -1,33 +1,35 @@
-🌅 Morning Briefing - Monday, 2nd November 2026
+🌅 Morning Briefing - Tuesday, 3rd November 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 11°C | High today: 12°C
-🌧️ Rain: 🌂 Take umbrella - rain likely
-   Peak rain: 3AM (98%)
-🌅 Sunrise: 06:55 | 🌇 Sunset: 16:31
-🌊 Tides: High 06:34 (5.82mm), Low 00:15 (1.59mm)
+🌡️ Current: 12°C | High today: 13°C
+🌧️ Rain: ☀️ No umbrella needed
+🌅 Sunrise: 06:57 | 🌇 Sunset: 16:29
+🌊 Tides: High 07:53 (5.73mm), Low 01:27 (1.84mm)
 
 ## News Highlights
 
-- [Labour ends power-sharing with Greens in 11 councils over Zionism row](https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Reform council leader quits after staff comments leaked](https://www.bbc.co.uk/news/articles/c6n4en89nd2xo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [No10 defends flight to Manchester to collect Andy Burnham](https://www.bbc.co.uk/news/articles/cvglwjydgk74o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- [What we know about the alert app hack in Ukraine and Russia](https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- [Chris Mason: Home secretary to face scrutiny over changes to rules for legal migrants](https://www.bbc.co.uk/news/articles/ck4g13zrm513o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [Chris Mason: Home secretary to face scrutiny over changes to rules for legal migrants](https://www.bbc.co.uk/news/articles/ck4g13zrm513o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [Ryanair says it may freeze workers' pay and raise airfares](https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss) - BBC World (4 hours ago)
+- [Reform UK councillor charged with rape and sexual assault](https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Trump to remove Rwanda and South Africa from US trade deal](https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [Russian bombing kills 31 people at Ukraine aid centre, Kyiv says](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [What are the planned changes to immigration rules?](https://www.bbc.co.uk/news/articles/c6ly052pdx4no?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [UK and EU agree draft deal to scrap Brexit red tape over food exports](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [Mahmood refuses to put cost on care worker settlement climbdown](https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Voter voices: Trump's influence on US midterm voters](https://www.bbc.co.uk/news/videos/cqj346nndl0yo?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Labour MPs pull their punches on immigration changes](https://www.bbc.co.uk/news/articles/ck0e0jpww9wro?at_medium=RSS&at_campaign=rss) - BBC Politics (5 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Anthropic can't stop winning](https://www.youtube.com/watch?v=y5TEATUDDfc) (7 hours ago)
+- **t3dotgg**: [OpenAI is getting desperate](https://www.youtube.com/watch?v=Hq2c7pww1Ds) (9 hours ago)
+- **AlecSteele**: [My Dream Power Hammer Restoration! Part 15](https://www.youtube.com/watch?v=r7RYjzXRd9o) (17 hours ago)
+- **t3dotgg**: [Anthropic can't stop winning](https://www.youtube.com/watch?v=y5TEATUDDfc) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) (3 hours ago)
-- **Simon Willison**: [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) (17 hours ago)
-- **Simon Willison**: [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) (23 hours ago)
-- **Simon Willison**: [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) (yesterday)
-- **Simon Willison**: [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) (yesterday)
+- **Simon Willison**: [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) (9 hours ago)
+- **Simon Willison**: [October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/) (9 hours ago)
+- **Simon Willison**: [llm 0.37](https://simonwillison.net/2026/Nov/2/llm/) (14 hours ago)
+- **Simon Willison**: [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) (yesterday)
+- **Simon Willison**: [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) (yesterday)
+- **Simon Willison**: [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) (yesterday)
