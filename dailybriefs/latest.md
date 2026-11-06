@@ -1,34 +1,35 @@
-🌅 Morning Briefing - Thursday, 5th November 2026
+🌅 Morning Briefing - Friday, 6th November 2026
 
 ## Weather & Conditions (Islington)
 
 🌡️ Current: 11°C | High today: 11°C
-🌧️ Rain: 🤔 Maybe take umbrella - possible rain
-   Peak rain: 12AM (41%)
-🌅 Sunrise: 07:00 | 🌇 Sunset: 16:26
-🌊 Tides: High 10:26 (6.17mm), Low 04:15 (1.59mm)
+🌧️ Rain: 🌂 Take umbrella - rain likely
+   Peak rain: 6AM (78%)
+🌅 Sunrise: 07:02 | 🌇 Sunset: 16:24
+🌊 Tides: High 11:29 (6.48mm), Low 05:27 (1.31mm)
+
+## Markets
+
+Bitcoin: $75,703 (-4.3% 24h)
 
 ## News Highlights
 
-- [Putin not invited to G20 summit in Manchester, says Burnham](https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
-- [Could this be the last Bonfire Night for noisy fireworks?](https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
-- [Drunk and dangerous e-bike riders face on-the-spot fines under crackdown](https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
-- [Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told](https://www.bbc.co.uk/news/articles/cmr4yvel29keo?at_medium=RSS&at_campaign=rss) - BBC Politics (5 hours ago)
-- [Poundland owner in crunch talks as retailer's collapse looms](https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
-- [Pound rises to its highest level since the Brexit referendum](https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss) - BBC Politics (10 hours ago)
-- [Vance walks Trump tightrope with scathing election critique blaming Iran war](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss) - BBC World (11 hours ago)
-- [More asbestos found in Parliament, as MPs urged to get on with revamp](https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo?at_medium=RSS&at_campaign=rss) - BBC Politics (11 hours ago)
+- [PM tells firms to publish salaries in job adverts ahead of new law](https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [Policing needs reform to cope with modern criminals, Met Police chief warns](https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [Russian extremist group denies sending hoax bomb threats](https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
+- [Algorithm allocates Highland 'significant increase' in asylum-seeking children](https://www.bbc.co.uk/news/articles/c6y43zvwzre1o?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
+- [Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials](https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss) - BBC World (6 hours ago)
+- [Reform councillor's post branded racist by Labour](https://www.bbc.co.uk/news/articles/c6kgl0gx19e1o?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
+- [Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?](https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss) - BBC Politics (14 hours ago)
+- ['Not my job to set a budget,' says secretary of state ](https://www.bbc.co.uk/news/articles/cmwy9zp3e44po?at_medium=RSS&at_campaign=rss) - BBC Politics (15 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Pewdiepie vs OpenAI](https://www.youtube.com/watch?v=tc8GNdrhozA) (6 hours ago)
-- **t3dotgg**: [Agents Sucked At UI (Until Today)](https://www.youtube.com/watch?v=xq0eB8vxeqk) (yesterday)
+- **colinfurze**: [LEGO Tunnel Train Tea Delivery](https://www.youtube.com/shorts/7uGk2Qxhkno) (22 hours ago)
+- **t3dotgg**: [I can't believe Pewdiepie made this](https://www.youtube.com/watch?v=tc8GNdrhozA) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) (23 hours ago)
-- **Simon Willison**: [datasette-apps 0.3a0](https://simonwillison.net/2026/Nov/4/datasette-apps/) (yesterday)
-- **Simon Willison**: [datasette-agent 0.5a0](https://simonwillison.net/2026/Nov/3/datasette-agent/) (yesterday)
-- **Simon Willison**: [llm 0.37.1](https://simonwillison.net/2026/Nov/3/llm/) (yesterday)
-- **Simon Willison**: [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) (yesterday)
+- **Simon Willison**: [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/) (21 hours ago)
+- **Simon Willison**: [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) (yesterday)
