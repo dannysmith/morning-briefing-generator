@@ -1,29 +1,32 @@
-🌅 Morning Briefing - Sunday, 8th November 2026
+🌅 Morning Briefing - Monday, 9th November 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 10°C | High today: 11°C
+🌡️ Current: 9°C | High today: 10°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:06 | 🌇 Sunset: 16:21
-🌊 Tides: High 00:46 (6.8mm), Low 07:17 (0.97mm)
+🌅 Sunrise: 07:08 | 🌇 Sunset: 16:19
+🌊 Tides: High 01:24 (6.8mm), Low 08:01 (0.88mm)
 
 ## News Highlights
 
-- [Nandy rejects claims of politicising Remembrance Sunday after Erasmus row](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [US offers $20m reward for information about Iran's nuclear programme](https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss) - BBC World (19 hours ago)
-- [Italian foreign minister says hackers leaked his personal data](https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss) - BBC World (21 hours ago)
-- [Russian strikes wound nine and damage Ukraine's power network ahead of talks](https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss) - BBC World (yesterday)
-- [Parliament restoration delays 'frustrating', says Commons Speaker](https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
-- [Why smoky bacon crisps threaten to reignite rows over EU rules](https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
-- [Burnham responds to BBC question over Labour's past links to Brand](https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
-- [PM tells firms to publish salaries in job adverts ahead of new law](https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
+- [Why are hundreds of prisoners being released early?](https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Action on energy costs is my overriding aim, says Fahnbulleh](https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Man jailed over racist Badenoch death threats](https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine](https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss) - BBC World (4 hours ago)
+- [Government's EV targets expected to be reduced this week](https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
+- ['Time is up': Minister warns media industry to take abuse seriously in wake of Brand case](https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss) - BBC Politics (14 hours ago)
+- [Society needs to act to help white working-class pupils, inquiry says](https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss) - BBC Politics (15 hours ago)
+- [Government 'looking seriously' at banning under-16s from Vinted and eBay](https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss) - BBC Politics (yesterday)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [How Claude Fixes It's Own Code](https://www.youtube.com/watch?v=TFCDWrEBaFM) (yesterday)
+- **t3dotgg**: [Coding Isn't About Code Anymore](https://www.youtube.com/watch?v=GtJKFhztgdM) (10 hours ago)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) (13 hours ago)
-- **Simon Willison**: [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) (yesterday)
+- **Simon Willison**: [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) (12 hours ago)
+- **Simon Willison**: [Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) (12 hours ago)
+- **Simon Willison**: [parse_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/) (18 hours ago)
+- **Simon Willison**: [datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) (yesterday)
+- **Simon Willison**: [Terry Pratchett's Study](https://simonwillison.net/2026/Nov/7/hn-50407316/) (yesterday)
