@@ -1,39 +1,35 @@
-🌅 Morning Briefing - Friday, 13th November 2026
+🌅 Morning Briefing - Saturday, 14th November 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 7°C | High today: 7°C
+🌡️ Current: 8°C | High today: 8°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:15 | 🌇 Sunset: 16:13
-🌊 Tides: High 03:30 (6.65mm), Low 10:03 (0.95mm)
+🌅 Sunrise: 07:16 | 🌇 Sunset: 16:12
+🌊 Tides: High 04:02 (6.46mm), Low 10:30 (1.03mm)
 
 ## Markets
 
-Bitcoin: $68,862 (-3.5% 24h)
+Bitcoin: $66,790 (-4.1% 24h)
 
 ## News Highlights
 
-- [Piddington to bring legal challenge over asylum base plans](https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Reform and Tory spokesmen in angry clash over immigration at Piddington](https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Reform could try to remove Senedd presiding officer over member's speaking ban](https://www.bbc.co.uk/news/articles/crq5ve0l0416o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
-- [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss) - BBC World (3 hours ago)
-- [Smart glasses banned from Welsh Parliament after ruling they could be used for speeches](https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
-- [Young, Welsh and into politics - but with different views on independence](https://www.bbc.co.uk/news/articles/ckvgdd9p7171o?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
-- [Youth scheme branded 'failure' over success rate](https://www.bbc.co.uk/news/articles/c6zjrygynpgzo?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
-- [Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
+- [Young people should have legal guarantee of job or training, Milburn tells BBC](https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Welsh Labour leader says party has focused too much on powers for Senedd ](https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight](https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
+- [Trump, Putin and Xi plan historic joint meeting in China next week, White House says](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss) - BBC World (7 hours ago)
+- [Jojo the gorilla has spent his life alone. Can he finally find a companion?](https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss) - BBC World (13 hours ago)
+- [Arrested generals and a threatened VP: President's son fuels Ugandan succession fever](https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss) - BBC World (13 hours ago)
+- [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss) - BBC World (17 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [I think I figured it out](https://www.youtube.com/watch?v=XtykeVoSmP8) (12 hours ago)
-- **AlecSteele**: [My Dream Power Hammer Restoration! Part 16](https://www.youtube.com/watch?v=09Y2tLGF9H4) (yesterday)
-- **t3dotgg**: [Progress?](https://www.youtube.com/watch?v=OBNVzWYMKbE) (yesterday)
+- **t3dotgg**: [It’s so much worse than I thought…](https://www.youtube.com/watch?v=5BrgFY5jIn4) (14 hours ago)
+- **t3dotgg**: [I think I figured it out](https://www.youtube.com/watch?v=XtykeVoSmP8) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) (16 hours ago)
-- **Simon Willison**: [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) (yesterday)
-- **Simon Willison**: [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/) (yesterday)
-- **Simon Willison**: [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/) (yesterday)
-- **Simon Willison**: [llm 0.37.2](https://simonwillison.net/2026/Nov/11/llm/) (yesterday)
-- **Simon Willison**: [Anthropic's IPO roadshow video](https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/) (yesterday)
+- **Simon Willison**: [datasette-cluster-map 0.19](https://simonwillison.net/2026/Nov/13/datasette-cluster-map/) (14 hours ago)
+- **Simon Willison**: [datasette-leaflet 0.3](https://simonwillison.net/2026/Nov/13/datasette-leaflet/) (15 hours ago)
+- **Simon Willison**: [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) (yesterday)
