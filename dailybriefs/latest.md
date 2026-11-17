@@ -1,36 +1,34 @@
-🌅 Morning Briefing - Monday, 16th November 2026
+🌅 Morning Briefing - Tuesday, 17th November 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 6°C | High today: 8°C
-🌧️ Rain: 🤔 Maybe take umbrella - possible rain
-   Peak rain: 12AM (35%)
-🌅 Sunrise: 07:20 | 🌇 Sunset: 16:09
-🌊 Tides: High 05:07 (6.07mm), Low 11:27 (1.21mm)
+🌡️ Current: 12°C | High today: 13°C
+🌧️ Rain: 🌂 Take umbrella - rain likely
+   Peak rain: 1AM (100%)
+🌅 Sunrise: 07:21 | 🌇 Sunset: 16:08
+🌊 Tides: High 05:50 (5.86mm), Low 12:04 (1.34mm)
 
 ## News Highlights
 
-- [Miliband says he won't resign if government approves Rosebank oil field](https://www.bbc.co.uk/news/articles/crvg2n8vwyqdo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?](https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war](https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [Estonia to close Russia border crossings after attempted drone factory arson attack](https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- [Barristers must stop using rape myths in trials, justice secretary says](https://www.bbc.co.uk/news/articles/cj04w7n74gqno?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [Create more jobs for under-25s by cutting National Insurance, key report urges](https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
-- [UK lost more than it gained from Brexit, Burnham to say ahead of EU summit](https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss) - BBC Politics (5 hours ago)
-- [Workers should get paid time off to train for crises, say peers](https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo?at_medium=RSS&at_campaign=rss) - BBC Politics (10 hours ago)
+- [Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [UK sanctions firms over Israeli West Bank settlements](https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [UK sanctions firms over Israeli West Bank settlements](https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [We can't afford to hire under-25s, say firms. Will Milburn plans help?](https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
+- [How the attack on Crimean Bridge unfolded](https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says](https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
+- [How new US chip restrictions on South East Asia will hit China](https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
+- [What does Neet stand for and why does the UK have so many?](https://www.bbc.co.uk/news/articles/cly9rq35de8o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Stop Searching For the Perfect Model](https://www.youtube.com/watch?v=TWoS5Nmyoc8) (16 hours ago)
-- **colinfurze**: [THIS Channel is 20 Years old TODAY!](https://www.youtube.com/watch?v=RBF8RYO1teY) (21 hours ago)
+- **t3dotgg**: [Stop Searching For the Perfect Model](https://www.youtube.com/watch?v=TWoS5Nmyoc8) (yesterday)
+- **colinfurze**: [20 Years of Building What Shouldn't Exist](https://www.youtube.com/watch?v=RBF8RYO1teY) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) (16 hours ago)
-- **Simon Willison**: [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette/) (17 hours ago)
-- **Simon Willison**: [datasette 0.65.6](https://simonwillison.net/2026/Nov/15/datasette-2/) (17 hours ago)
-- **Simon Willison**: [datasette-apps 0.4a0](https://simonwillison.net/2026/Nov/15/datasette-apps/) (yesterday)
-- **Simon Willison**: [datasette-agent 0.6a0](https://simonwillison.net/2026/Nov/15/datasette-agent/) (yesterday)
-- **Simon Willison**: [datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/) (yesterday)
-- **Simon Willison**: [datasette-vega 0.7](https://simonwillison.net/2026/Nov/14/datasette-vega/) (yesterday)
+- **Simon Willison**: [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/) (10 hours ago)
+- **Simon Willison**: [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) (16 hours ago)
+- **Simon Willison**: [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) (yesterday)
+- **Simon Willison**: [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette/) (yesterday)
+- **Simon Willison**: [datasette 0.65.6](https://simonwillison.net/2026/Nov/15/datasette-2/) (yesterday)
