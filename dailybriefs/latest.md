@@ -1,34 +1,33 @@
-🌅 Morning Briefing - Tuesday, 17th November 2026
+🌅 Morning Briefing - Wednesday, 18th November 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 12°C | High today: 13°C
-🌧️ Rain: 🌂 Take umbrella - rain likely
-   Peak rain: 1AM (100%)
-🌅 Sunrise: 07:21 | 🌇 Sunset: 16:08
-🌊 Tides: High 05:50 (5.86mm), Low 12:04 (1.34mm)
+🌡️ Current: 11°C | High today: 12°C
+🌧️ Rain: ☀️ No umbrella needed
+🌅 Sunrise: 07:23 | 🌇 Sunset: 16:07
+🌊 Tides: High 06:44 (5.66mm), Low 00:22 (1.83mm)
 
 ## News Highlights
 
-- [Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [UK sanctions firms over Israeli West Bank settlements](https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [UK sanctions firms over Israeli West Bank settlements](https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [We can't afford to hire under-25s, say firms. Will Milburn plans help?](https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss) - BBC Politics (just now)
-- [How the attack on Crimean Bridge unfolded](https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says](https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss) - BBC World (just now)
-- [How new US chip restrictions on South East Asia will hit China](https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss) - BBC World (2 hours ago)
-- [What does Neet stand for and why does the UK have so many?](https://www.bbc.co.uk/news/articles/cly9rq35de8o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [Burnham promises to 'move quickly' on Neets report](https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [Home secretary plans to tackle 'corrosive' perception of two-tier policing](https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss) - BBC Politics (2 hours ago)
+- [Lammy urges Burnham to take UK back into the EU](https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Extra £500m for NHS as Reform boycott the Senedd](https://www.bbc.co.uk/news/videos/crvg2lq64nv7o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Trump shakes hands with Putin and Xi ahead of historic talks in China](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss) - BBC World (3 hours ago)
+- [Minister criticises media for 'amplifying' Russell Brand's prison message](https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss) - BBC World (5 hours ago)
+- [Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform](https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss) - BBC Politics (10 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **t3dotgg**: [Stop Searching For the Perfect Model](https://www.youtube.com/watch?v=TWoS5Nmyoc8) (yesterday)
-- **colinfurze**: [20 Years of Building What Shouldn't Exist](https://www.youtube.com/watch?v=RBF8RYO1teY) (yesterday)
+- **AlecSteele**: [My Dream Power Hammer Restoration! Part 17](https://www.youtube.com/watch?v=IUzbH8Btr6s) (17 hours ago)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/) (10 hours ago)
-- **Simon Willison**: [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) (16 hours ago)
-- **Simon Willison**: [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) (yesterday)
-- **Simon Willison**: [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette/) (yesterday)
-- **Simon Willison**: [datasette 0.65.6](https://simonwillison.net/2026/Nov/15/datasette-2/) (yesterday)
+- **Simon Willison**: [The PSF end-of-year fundraiser](https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/) (1 hour ago)
+- **Simon Willison**: [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/) (17 hours ago)
+- **Simon Willison**: [GPT‑6.2 Astra and GPT‑6.2 Sol](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/) (17 hours ago)
+- **Simon Willison**: [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/) (23 hours ago)
+- **Simon Willison**: [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/) (yesterday)
+- **Simon Willison**: [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) (yesterday)
