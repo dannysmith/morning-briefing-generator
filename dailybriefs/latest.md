@@ -1,33 +1,31 @@
-🌅 Morning Briefing - Saturday, 21st November 2026
+🌅 Morning Briefing - Sunday, 22nd November 2026
 
 ## Weather & Conditions (Islington)
 
-🌡️ Current: 8°C | High today: 8°C
+🌡️ Current: 9°C | High today: 9°C
 🌧️ Rain: ☀️ No umbrella needed
-🌅 Sunrise: 07:28 | 🌇 Sunset: 16:03
-🌊 Tides: High 10:29 (6.1mm), Low 04:11 (1.75mm)
+🌅 Sunrise: 07:30 | 🌇 Sunset: 16:02
+🌊 Tides: High 11:26 (6.52mm), Low 05:22 (1.48mm)
 
 ## News Highlights
 
-- [Scouts say they face £1m tourist tax cost for overnight trips](https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
-- [Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss) - BBC World (1 hour ago)
-- [First minister 'gobsmacked' by Burnham's devolution calls rejection](https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss) - BBC Politics (4 hours ago)
-- [Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper](https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss) - BBC World (4 hours ago)
-- [Deal with EU not dependent on tuition fees agreement, Miliband says](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss) - BBC Politics (5 hours ago)
-- [Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss) - BBC World (6 hours ago)
-- [Trafalgar Square Christmas tree felled in Norway](https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss) - BBC World (6 hours ago)
-- [Staff gagging clauses lifted ahead of probe into culture at data watchdog](https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
+- [Tories would scrap Burnham's deal with EU, deputy leader says](https://www.bbc.co.uk/news/articles/cr868jnlllpgo?at_medium=RSS&at_campaign=rss) - BBC Politics (1 hour ago)
+- [Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss) - BBC Politics (3 hours ago)
+- [Russia-bound ship still on fire after attack in Gulf of Finland](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss) - BBC World (3 hours ago)
+- [MP criticises company ownership register plans](https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss) - BBC Politics (7 hours ago)
+- ['Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
+- ['Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss) - BBC Politics (8 hours ago)
+- [Spitting Image co-creator Peter Fluck dies aged 85](https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss) - BBC Politics (17 hours ago)
+- [UK should only rejoin EU if it innovates on technology, Blair warns](https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss) - BBC Politics (19 hours ago)
 
 ## New Content (48h)
 ### 📺 YouTube:
 
-- **AlecSteele**: [Does Iron + Diamond = Steel?](https://www.youtube.com/watch?v=vwaE_VM2v_s) (16 hours ago)
-- **t3dotgg**: [holy sh*t](https://www.youtube.com/watch?v=HQlk9RGx2dk) (23 hours ago)
-- **t3dotgg**: [I'm gonna miss coding](https://www.youtube.com/watch?v=TDoXk7o3rxs) (yesterday)
+- **AlecSteele**: [Does Iron + Diamond = Steel?](https://www.youtube.com/watch?v=vwaE_VM2v_s) (yesterday)
+- **t3dotgg**: [Where was Google hiding this?](https://www.youtube.com/watch?v=HQlk9RGx2dk) (yesterday)
 
 ### 📝 Articles:
 
-- **Simon Willison**: [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) (19 hours ago)
-- **Simon Willison**: [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/) (22 hours ago)
-- **Simon Willison**: [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) (yesterday)
-- **Simon Willison**: [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/) (yesterday)
+- **Simon Willison**: [Muru](https://simonwillison.net/2026/Nov/21/muru/) (15 hours ago)
+- **Simon Willison**: [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) (yesterday)
+- **Simon Willison**: [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/) (yesterday)
